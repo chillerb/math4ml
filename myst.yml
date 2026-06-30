@@ -17,6 +17,8 @@ project:
         - file: 02_lina/02_05_solution_set.ipynb
         - file: 02_lina/02_06_isole.ipynb
         - file: 02_lina/02_07_condition_sole.ipynb
+        - file: 02_lina/02_08_inverse.ipynb
+        - file: 02_lina/02_09_subspaces.ipynb
     
 site:
   template: book-theme
