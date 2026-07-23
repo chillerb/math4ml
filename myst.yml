@@ -19,6 +19,8 @@ project:
         - file: 02_lina/02_07_condition_sole.ipynb
         - file: 02_lina/02_08_inverse.ipynb
         - file: 02_lina/02_09_subspaces.ipynb
+        - file: 02_lina/02_10_lindependent.ipynb
+        - file: 02_lina/02_11_combinations.ipynb
     
 site:
   template: book-theme

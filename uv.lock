@@ -822,7 +822,7 @@ wheels = [
 [[package]]
 name = "math4ml"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
     { name = "ipykernel" },
     { name = "jupyter-book" },
